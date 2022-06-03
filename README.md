@@ -1,6 +1,10 @@
 # Alt-tab-Click-AutoHotkey
 Alt-Tab click easy way with autohotkey ^^
 
-If you want you can use Wındow Catch on ahk. But i used to it with Alt-Tab.
-When you press "p" key clicking on focus screen and alt tabing to last focused screen and clicking to same position and alt-tabing again.
+If you want you can use Window Catch instead on ahk. But i used to this way -Alt-Tab-.
+When you press "p" key clicking on focus screen and pressing alt-tab. Then clicking same position and pressing alt-tab again.
 All is it ^^
+
+
+
+
